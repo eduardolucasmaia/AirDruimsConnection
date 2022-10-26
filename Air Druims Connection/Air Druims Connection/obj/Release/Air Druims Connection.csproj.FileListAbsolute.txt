@@ -1,0 +1,11 @@
+E:\Eduardo\Documents\Visual Studio 2012\Projects\Air Druims Connection\Air Druims Connection\bin\Release\Air Druims Connection.exe.config
+E:\Eduardo\Documents\Visual Studio 2012\Projects\Air Druims Connection\Air Druims Connection\obj\Release\Interop.WMPLib.dll
+E:\Eduardo\Documents\Visual Studio 2012\Projects\Air Druims Connection\Air Druims Connection\obj\Release\Air Druims Connection.csproj.ResolveComReference.cache
+E:\Eduardo\Documents\Visual Studio 2012\Projects\Air Druims Connection\Air Druims Connection\obj\Release\Air Druims Connection.csprojResolveAssemblyReference.cache
+E:\Eduardo\Documents\Visual Studio 2012\Projects\Air Druims Connection\Air Druims Connection\obj\Release\Air_Druims_Connection.Form1.resources
+E:\Eduardo\Documents\Visual Studio 2012\Projects\Air Druims Connection\Air Druims Connection\obj\Release\Air_Druims_Connection.Properties.Resources.resources
+E:\Eduardo\Documents\Visual Studio 2012\Projects\Air Druims Connection\Air Druims Connection\obj\Release\Air Druims Connection.csproj.GenerateResource.Cache
+E:\Eduardo\Documents\Visual Studio 2012\Projects\Air Druims Connection\Air Druims Connection\bin\Release\Air Druims Connection.exe
+E:\Eduardo\Documents\Visual Studio 2012\Projects\Air Druims Connection\Air Druims Connection\bin\Release\Air Druims Connection.pdb
+E:\Eduardo\Documents\Visual Studio 2012\Projects\Air Druims Connection\Air Druims Connection\obj\Release\Air Druims Connection.exe
+E:\Eduardo\Documents\Visual Studio 2012\Projects\Air Druims Connection\Air Druims Connection\obj\Release\Air Druims Connection.pdb
